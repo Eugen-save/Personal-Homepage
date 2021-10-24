@@ -28,7 +28,7 @@ You can find a list of all my repositories after short loading animation. There 
 
 If light application is not comfortable for you, you can switch it to dark mode by button on the top of the page.
 
-![personal-page-description](https://github.com/Eugen-save/personal-homepage/blob/main/Readme-description.gif)
+![personal-page-description](https://github.com/Eugen-save/Personal-Homepage-React/blob/main/Readme-description.gif)
 ## Available Scripts
 
 In the project directory, you can run:
