@@ -1,6 +1,7 @@
 # My Personal Homepage
 
-https://eugen-save.github.io/personal-homepage/
+https://eugen-save.github.io/Personal-Homepage-React/
+
 ## Used technologies
 * Semantic HTML
 * CSS
