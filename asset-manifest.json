@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Personal-Homepage/static/js/main.f6ba24a0.chunk.js",
+    "main.js.map": "/Personal-Homepage/static/js/main.f6ba24a0.chunk.js.map",
+    "runtime-main.js": "/Personal-Homepage/static/js/runtime-main.de081c2b.js",
+    "runtime-main.js.map": "/Personal-Homepage/static/js/runtime-main.de081c2b.js.map",
+    "static/js/2.2944ea3e.chunk.js": "/Personal-Homepage/static/js/2.2944ea3e.chunk.js",
+    "static/js/2.2944ea3e.chunk.js.map": "/Personal-Homepage/static/js/2.2944ea3e.chunk.js.map",
+    "static/js/3.81f461b0.chunk.js": "/Personal-Homepage/static/js/3.81f461b0.chunk.js",
+    "static/js/3.81f461b0.chunk.js.map": "/Personal-Homepage/static/js/3.81f461b0.chunk.js.map",
+    "index.html": "/Personal-Homepage/index.html",
+    "static/js/2.2944ea3e.chunk.js.LICENSE.txt": "/Personal-Homepage/static/js/2.2944ea3e.chunk.js.LICENSE.txt",
+    "static/media/brightness.b8747a15.svg": "/Personal-Homepage/static/media/brightness.b8747a15.svg",
+    "static/media/danger.f221e44b.svg": "/Personal-Homepage/static/media/danger.f221e44b.svg",
+    "static/media/facebookLogo.c8667ec4.svg": "/Personal-Homepage/static/media/facebookLogo.c8667ec4.svg",
+    "static/media/gitHubLogo.d0a5d516.svg": "/Personal-Homepage/static/media/gitHubLogo.d0a5d516.svg",
+    "static/media/iconly.5c480520.svg": "/Personal-Homepage/static/media/iconly.5c480520.svg",
+    "static/media/instagramLogo.a08f7f9a.svg": "/Personal-Homepage/static/media/instagramLogo.a08f7f9a.svg",
+    "static/media/linkedINLogo.fe167dd8.svg": "/Personal-Homepage/static/media/linkedINLogo.fe167dd8.svg",
+    "static/media/logo.2da5169c.svg": "/Personal-Homepage/static/media/logo.2da5169c.svg",
+    "static/media/portrait.4d4f3bc8.jpg": "/Personal-Homepage/static/media/portrait.4d4f3bc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de081c2b.js",
+    "static/js/2.2944ea3e.chunk.js",
+    "static/js/main.f6ba24a0.chunk.js"
+  ]
+}
